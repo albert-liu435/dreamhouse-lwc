@@ -216,6 +216,6 @@ The app GeocodingService uses OpenStreetMap API to geocode property addresses. O
 
 
 
-连接地址：https://playful-badger-kiiulo-dev-ed.trailblaze.lightning.force.com/lightning/n/trlhdtips__Welcome
-用户：albert.liu435@playful-badger-kiiulo.com
+连接地址：https://mindful-goat-4058pe-dev-ed.trailblaze.lightning.force.com/lightning/setup/SetupOneHome/home
+用户：albert.liu435@mindful-goat-4058pe.com
 密码：Aa876543211234
